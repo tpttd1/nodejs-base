@@ -1,0 +1,4 @@
+GENERATE_SOURCEMAP=false
+
+// context path to call api
+REACT_APP_API_BASE_PATH=http://localhost:4000

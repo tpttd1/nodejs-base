@@ -27,4 +27,5 @@ package-log.json
 .env
 .eslintcache
 *.mp4
-*.example
+
+/output
